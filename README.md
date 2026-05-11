@@ -102,4 +102,5 @@ Luego interactuar con la interfaz.
 
 ## 👨‍💻 Autor
 
-Proyecto académico.
+ALVARO JAVIER VILLEGAS PICON 
+DIEGO ALEJANDRO CORREA 
